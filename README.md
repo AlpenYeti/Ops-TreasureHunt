@@ -56,7 +56,7 @@ budget.
 
 * Dans le dossier sponsors, vous trouverez plusieurs
 fichier Sponsors, à vous de déterminer lesquels vous
-rapporterons le plus d'argents, mais attention les règles
+rapporterons le plus d'argent, mais attention les règles
 de la compétition vous permettent de recruter un maximum
 de 4 sponsors !
 
